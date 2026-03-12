@@ -1,0 +1,6 @@
+*.zip
+*.csv
+*.pbix
+*.pyc
+*.sql
+__pycache__/
